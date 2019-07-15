@@ -1,0 +1,4 @@
+decorator==4.4.0
+jsonpath-ng==1.4.3
+ply==3.11
+six==1.12.0

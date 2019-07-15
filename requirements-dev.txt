@@ -1,0 +1,12 @@
+astroid==2.2.5
+decorator==4.4.0
+isort==4.3.21
+jsonpath-ng==1.4.3
+lazy-object-proxy==1.4.1
+mccabe==0.6.1
+pep8==1.7.1
+ply==3.11
+pylint==2.3.1
+six==1.12.0
+typed-ast==1.4.0
+wrapt==1.11.2
